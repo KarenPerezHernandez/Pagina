@@ -1,0 +1,208 @@
+{"items":[
+    {
+        "category":"Desayunos",
+        "items":[
+            {
+                "name":"Quesadillas",
+                "description":"5 quesadillas con carne acompañados de verduras",
+                "price":"$150.00",
+                "image":"img/1.jpg" 
+            },
+            {
+                "name":"Omelette",
+                "description":"",
+                "price":"$100.00",
+                "image":"img/2.jpg" 
+            },
+            {
+                "name":"waffles",
+                "description":"Waffles acompañados de una ensalada de frutas",
+                "price":"$50.00",
+                "image":"img/3.jpg" 
+            },
+            {
+                "name":"Huevos revueltos",
+                "description":"Huevos acompañados de frutas y pan",
+                "price":"$60.00",
+                "image":"img/4.jpg" 
+            },
+            {
+                "name":"Hotcakes",
+                "description":"Hotcakes con frutos rojos",
+                "price":"$45.00",
+                "image":"img/5.jpg" 
+            },
+            {
+                "name":"Huevos estrellados",
+                "description":"2 huevos estrellados, tosino, pan y hotcakes",
+                "price":"$99.00",
+                "image":"img/6.jpg"
+            }
+        ]
+    },
+        {
+            "category":"Almuerzos",
+            "items":[
+                {
+                    "name":"Ensalada con carne",
+                    "description":"Ensalada de carne con fideos y verduras ",
+                    "price":"$120.00",
+                    "image":"img/19.jpg" 
+                },
+                {
+                    "name":"Quesadillas",
+                    "description":"Quesadillas con carne y verduras",
+                    "price":"$70.00",
+                    "image":"img/20.jpg" 
+                },
+                {
+                    "name":"Albondigas francesas",
+                    "description":"Albondigas francesas",
+                    "price":"$75.00",
+                    "image":"img/21.jpg" 
+                },
+                {
+                    "name":"Bistec enchilado",
+                    "description":"Bistec enchilado con huevos estrellados y verduras",
+                    "price":"$150.00",
+                    "image":"img/22.jpg" 
+                },
+                {
+                    "name":"Zandwich",
+                    "description":"Zandwich de pollo con verduras",
+                    "price":"$65.00",
+                    "image":"img/23.jpg" 
+                },
+                {
+                    "name":"Pechuga a la plancha",
+                    "description":"Pechuga a la plancha con arroz y verduras",
+                    "price":"$99.00",
+                    "image":"img/24.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Comidas",
+            "items":[
+                {
+                    "name":"Orden de tacos",
+                    "description":"Tacos de pollo, bistec, trompo, asada, al pastor etc",
+                    "price":"$123.00",
+                    "image":"img/1.jpg" 
+                },
+                {
+                    "name":"Mole",
+                    "description":"Pollo bañado en salsa de mole con arroz blanco",
+                    "price":"$130.00",
+                    "image":"img/2.jpg" 
+                },
+                {
+                    "name":"Arrachera",
+                    "description":"Medio kilo de arrachera asada con papas fritas",
+                    "price":"$250.00",
+                    "image":"img/3.jpg" 
+                },
+                {
+                    "name":"Pollo crujiente",
+                    "description":"Pollo crujiente acompañado de pure de papa",
+                    "price":"$135.00",
+                    "image":"img/4.jpg" 
+                },
+                {
+                    "name":"Hamburguesa especial",
+                    "description":"Hamburguesa con dos carnes, huevo, tosino y papas fritas",
+                    "price":"$65.00",
+                    "image":"img/5.jpg" 
+                },
+                {
+                    "name":"Torta de la barda",
+                    "description":"Torta con carne, tosino y verdura",
+                    "price":"$74.00",
+                    "image":"img/6.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Postres",
+            "items":[
+                {
+                    "name":"Creme brulee",
+                    "description":"base de flan o natilla rica, cubierta con una capa de azúcar caramelizado endurecido.",
+                    "price":"$45.00",
+                    "image":"img/1.jpg" 
+                },
+                {
+                    "name":"Gelatina",
+                    "description":"Gelatina grande de fresa, uva, mosaico etc",
+                    "price":"$30.00",
+                    "image":"img/2.jpg" 
+                },
+                {
+                    "name":"Flan",
+                    "description":"rabanada de flan",
+                    "price":"$25.00",
+                    "image":"img/3.jpg" 
+                },
+                {
+                    "name":"Carlotta",
+                    "description":"Carlotta de limon",
+                    "price":"$33.00",
+                    "image":"img/4.jpg" 
+                },
+                {
+                    "name":"Chocoflan",
+                    "description":"Rebanada de chocoflan",
+                    "price":"$35.00",
+                    "image":"img/5.jpg" 
+                },
+                {
+                    "name":"Pay de manzana",
+                    "description":"mini pay de manzana",
+                    "price":"$24.00",
+                    "image":"img/6.jpg"
+                }
+            ]
+        },
+        {
+            "category":"Bebidas",
+            "items":[
+                {
+                    "name":"Agua de horchata",
+                    "description":"Litro de agua de horchata",
+                    "price":"$26.00",
+                    "image":"img/25.jpg" 
+                },
+                {
+                    "name":"Cafe de olla",
+                    "description":"Taza de cafe de olla artesanal",
+                    "price":"$28.00",
+                    "image":"img/26.jpg" 
+                },
+                {
+                    "name":"Agua de fresa con kiwi",
+                    "description":"Litro de agua de fresa con kiwi",
+                    "price":"$24.00",
+                    "image":"img/27.jpg" 
+                },
+                {
+                    "name":"Agua de limon",
+                    "description":"Litro de agua de limon",
+                    "price":"$20.00",
+                    "image":"img/28.jpg" 
+                },
+                {
+                    "name":"Jugo de citricos",
+                    "description":"Litro de jugo de naranja, toronja y limon",
+                    "price":"$25.00",
+                    "image":"img/29.jpg" 
+                },
+                {
+                    "name":"Ponche de frutas",
+                    "description":"Litro de jugo de ponche de frutas ",
+                    "price":"$27.00",
+                    "image":"img/30.jpg"
+                }
+            ]
+        }
+    ]
+}
